@@ -39,7 +39,11 @@
 11.git merge upstream/dev 就会将upstream/dev合并到当前分支dev
 ##尝试提交push
 1.有新文件后，输入git status 查看变化；
+
 2.输入git add -A 
+
 3.输入git commit -m"提交的原因注释可以写在这"
+
 4.输入git push 
+
 然后到github仓库dev分支下查看文件是否push成功。
